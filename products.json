@@ -1,0 +1,72 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Poedagar Luxury Wristwatch",
+            "price": 12.92,
+            "description": "Luxury chronograph wristwatch with luminous dial, leather strap, and quartz movement.",
+            "image": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/b86e1a5820f4aa037666e0345a5dfc86.jpg?imageView2/2/w/800/q/70/format/webp",
+            "category": "table",
+            "badge": "Bestseller",
+            "features": [
+                "Chronograph functionality",
+                "Luminous dial",
+                "Leather strap",
+                "Quartz movement"
+            ],
+            "inStock": true,
+            "freeShipping": true
+        },
+        {
+            "id": "2",
+            "name": "Luxurious Multifunction Watch",
+            "price": 37.71,
+            "description": "Luminous quartz chronograph with leather strap for casual elegance.",
+            "image": "https://img.kwcdn.com/product/fancy/43caf66f-1f2c-4c9c-93a3-34e8689d3cf0.jpg?imageView2/2/w/800/q/70/format/webp",
+            "category": "floor",
+            "badge": "Popular",
+            "features": [
+                "Luminous quartz chronograph",
+                "Leather strap",
+                "Casual elegance",
+                "Versatile for daily wear"
+            ],
+            "inStock": true,
+            "freeShipping": true
+        },
+        {
+            "id": "3",
+            "name": "Stainless Steel Watch",
+            "price": 65.39,
+            "description": "Pagani Design 2024 Men's Automatic Skeleton Watch, self-winding, stainless steel, pointer series, sports design, battery-free mechanism.",
+            "image": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/ef1615bf238f1be554e96f681586cf4d.jpg?imageView2/2/w/800/q/70/format/webp",
+            "category": "desk",
+            "badge": "Sale",
+            "features": [
+                "Self-winding automatic movement",
+                "Stainless steel construction",
+                "Pointer series design",
+                "Battery-free mechanism"
+            ],
+            "inStock": true,
+            "freeShipping": true
+        },
+        {
+            "id": "4",
+            "name": "Men's Sports Watch",
+            "price": 27.33,
+            "description": "Men's multifunctional sports watch features a leather strap, alloy case, and a quartz movement, making it a stylish and practical accessory for any youth.",
+            "image": "https://img.kwcdn.com/product/fancy/d16e295a-34a2-4bf0-bb6c-afe9463d21da.jpg?imageView2/2/w/800/q/70/format/webp",
+            "category": "pendant",
+            "badge": "New",
+            "features": [
+                "Leather strap",
+                "Alloy case",
+                "Quartz movement",
+                "Stylish and practical design"
+            ],
+            "inStock": true,
+            "freeShipping": true
+        }
+    ]
+}
