@@ -1354,6 +1354,12 @@ p {
     main {
         padding:6rem 1rem;
     }
+    .policy-content {
+        margin-top: 4rem;
+    }
+    .contact-page {
+        margin-top: 10rem;
+    }
     /* Header & Navigation */
     nav {
         flex-direction: column;
@@ -1447,7 +1453,7 @@ p {
 
     /* Thank You Page */
     .thank-you-content {
-        padding: 1.5rem;
+        padding-top: 5rem;
     }
 
     #orderDetails {
